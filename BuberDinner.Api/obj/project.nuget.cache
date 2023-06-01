@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sIo43A4Wuee3wItpeVufgQMDtWAuRdKhHO08Xg+P8Wkgj+7vM4q2j883aVdfQbwPkEnG22npo7etneGFK/K2Fg==",
+  "dgSpecHash": "F3GIHz/dMkZfwhmAhzoc93X7LqPTyY9fnetf9e1AAVS+Viki75jbamwz7EAQoqjDQRsZWxIy0FF1Q6HG0e2ALQ==",
   "success": true,
   "projectFilePath": "/home/pedro/projects/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "/home/pedro/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/mapster/7.4.0-pre06/mapster.7.4.0-pre06.nupkg.sha512",
+    "/home/pedro/.nuget/packages/mapster.core/1.2.1-pre04/mapster.core.1.2.1-pre04.nupkg.sha512",
+    "/home/pedro/.nuget/packages/mapster.dependencyinjection/1.0.1-pre02/mapster.dependencyinjection.1.0.1-pre02.nupkg.sha512",
     "/home/pedro/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
     "/home/pedro/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/home/pedro/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
