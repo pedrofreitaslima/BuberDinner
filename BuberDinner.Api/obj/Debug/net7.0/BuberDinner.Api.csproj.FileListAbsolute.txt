@@ -57,3 +57,6 @@
 /home/pedro/projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/Mapster.dll
 /home/pedro/projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/Mapster.Core.dll
 /home/pedro/projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/Mapster.DependencyInjection.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/FluentValidation.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Api/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll

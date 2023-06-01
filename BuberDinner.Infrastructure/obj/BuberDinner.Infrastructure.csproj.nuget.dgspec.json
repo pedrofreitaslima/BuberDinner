@@ -46,6 +46,14 @@
               "target": "Package",
               "version": "[1.2.1, )"
             },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[11.1.0, )"
