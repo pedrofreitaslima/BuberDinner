@@ -1,0 +1,15 @@
+/home/pedro/projects/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.deps.json
+/home/pedro/projects/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.pdb
+/home/pedro/projects/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.AssemblyInfo.cs
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.CopyComplete
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/refint/BuberDinner.Application.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.pdb
+/home/pedro/projects/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/ref/BuberDinner.Application.dll

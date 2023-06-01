@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "GX9gTdNaBj0Q2sJ+vQzLrHvyjn3+5KFB24xI4wxC5Dnw7IDiVCld08aNz083EP85qbBt6IaCE7LORCv7WQWFOA==",
+  "success": true,
+  "projectFilePath": "/home/pedro/projects/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.configuration.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0-preview.4.23259.5/microsoft.extensions.configuration.binder.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.extensions.options/8.0.0-preview.4.23259.5/microsoft.extensions.options.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0-preview.4.23259.5/microsoft.extensions.options.configurationextensions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.4.23259.5/microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.identitymodel.abstractions/6.30.1/microsoft.identitymodel.abstractions.6.30.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.30.1/microsoft.identitymodel.jsonwebtokens.6.30.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.identitymodel.logging/6.30.1/microsoft.identitymodel.logging.6.30.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.identitymodel.tokens/6.30.1/microsoft.identitymodel.tokens.6.30.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/system.identitymodel.tokens.jwt/6.30.1/system.identitymodel.tokens.jwt.6.30.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/pedro/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

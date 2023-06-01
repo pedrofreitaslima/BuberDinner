@@ -1,0 +1,12 @@
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.deps.json
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.csproj.AssemblyReference.cache
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.AssemblyInfoInputs.cache
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.AssemblyInfo.cs
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.csproj.CoreCompileInputs.cache
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/refint/BuberDinner.Domain.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/BuberDinner.Domain.pdb
+/home/pedro/projects/BuberDinner/BuberDinner.Domain/obj/Debug/net7.0/ref/BuberDinner.Domain.dll
