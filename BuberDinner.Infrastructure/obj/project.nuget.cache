@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pDrGPhqXzKQ6PMKwZnCuU0HdgLRzMaVjF86Ld5YRf/w5vINvZqJ0J9GOY8X/U9/Yb2ORxcwTKfXn7uYLxTiYeA==",
+  "dgSpecHash": "ZwDCFi+qwuwysBhtGuE2zCBh7EhqitDoLcmF90IEPIr11Io48ljaKtJBS/Uyu3ZRADdMo91wxGdg+1ZYvisFJA==",
   "success": true,
   "projectFilePath": "/home/pedro/projects/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "/home/pedro/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
     "/home/pedro/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/home/pedro/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.5/microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.configuration.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0-preview.4.23259.5/microsoft.extensions.configuration.binder.8.0.0-preview.4.23259.5.nupkg.sha512",
@@ -21,6 +22,8 @@
     "/home/pedro/.nuget/packages/microsoft.identitymodel.abstractions/6.30.1/microsoft.identitymodel.abstractions.6.30.1.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.30.1/microsoft.identitymodel.jsonwebtokens.6.30.1.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.identitymodel.logging/6.30.1/microsoft.identitymodel.logging.6.30.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.identitymodel.protocols/6.15.1/microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.15.1/microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.identitymodel.tokens/6.30.1/microsoft.identitymodel.tokens.6.30.1.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/pedro/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
