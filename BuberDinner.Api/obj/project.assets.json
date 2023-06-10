@@ -613,6 +613,9 @@
       "BuberDinner.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BuberDinner.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BuberDinner.Contracts.dll": {}
         },

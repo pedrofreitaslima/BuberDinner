@@ -1,8 +1,7 @@
-using System.Net.WebSockets;
 using BuberDinner.Domain.Common.Models;
-using BuberDinner.Domain.Menu.ValueObjects;
+using BuberDinner.Domain.MenuAggregate.ValueObjects;
 
-namespace BuberDinner.Domain.Menu.Enitites;
+namespace BuberDinner.Domain.MenuAggregate.Enitites;
 
 public sealed class MenuItem : Entity<MenuItemId>
 {

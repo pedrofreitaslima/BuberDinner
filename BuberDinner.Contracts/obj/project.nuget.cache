@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nMjKQh4yqzcdZc3r4tSE5z1aysQmUXdYVgsNFc+L6NTG2rtBp1I1gJF7sqDGTck8qHRafMYX8NaQf8BkKS8HIg==",
+  "dgSpecHash": "/1etmc1q0vsYuaj0u4lwipO0lK4MZAU+qYb8dUTDzOS8fj2KD6693IUbtijdwPUSxxbEKM6R6aAtCMV1qICbhQ==",
   "success": true,
   "projectFilePath": "/home/pedro/projects/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

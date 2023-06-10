@@ -376,6 +376,9 @@
         }
       },
       "BuberDinner.Contracts/1.0.0": {
+        "dependencies": {
+          "BuberDinner.Domain": "1.0.0"
+        },
         "runtime": {
           "BuberDinner.Contracts.dll": {}
         }
