@@ -38,7 +38,7 @@ public class AuthenticationController : ApiController
     return authResult.Match(
       success => Ok(_mapper.Map<AuthenticationResponse>(success)),
       errors => Problem(errors)
-      );
+    );
   }
 
   [Route("register")]

@@ -22,6 +22,7 @@ public sealed class MenuItem : Entity<MenuItemId>
         return new(
             MenuItemId.CreateUnique(), 
             name, 
-            description);
+            description
+        );
     }
 }
