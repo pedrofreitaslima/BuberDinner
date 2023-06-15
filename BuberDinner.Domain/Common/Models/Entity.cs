@@ -7,6 +7,8 @@ public abstract class Entity<TId> : IEquatable<Entity<TId>>
 {
     public TId Id { get; protected init; }
     
+    protected Entity(){}
+    
     public Entity(TId id)
     {
         Id = id;

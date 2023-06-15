@@ -23,7 +23,7 @@ public class CreateMenuCommandHandler :
         
        // create Menu
        var menu = Menu.Create(
-           hostId: HostId.Create(request.HostId),
+           hostId: HostId.Create(Guid.Parse(request.HostId)),
            name: request.Name,
            description: request.Description,
            sections: request.Sections.ConvertAll(section => MenuSection.Create(

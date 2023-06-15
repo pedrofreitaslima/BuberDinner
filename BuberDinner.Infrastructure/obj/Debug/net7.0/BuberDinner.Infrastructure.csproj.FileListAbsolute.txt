@@ -15,3 +15,5 @@
 /home/pedro/projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/refint/BuberDinner.Infrastructure.dll
 /home/pedro/projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.pdb
 /home/pedro/projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/ref/BuberDinner.Infrastructure.dll
+/home/pedro/projects/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.runtimeconfig.json
+/home/pedro/projects/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.genruntimeconfig.cache

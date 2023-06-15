@@ -4,16 +4,16 @@ namespace BuberDinner.Domain.HostAggregate.ValueObjects;
 
 public sealed class HostId : ValueObject
 {
-    public Guid Value { get; }
+    public Guid Value { get; private set; }
 
     private HostId(Guid value)
     {
         Value = value;
     }
 
-    public static HostId Create(string value)
+    public static HostId Create(Guid id)
     {
-        return new HostId(Guid.Parse(value));
+        return new HostId(id);
     }
 
     public static HostId CreateUnique()
